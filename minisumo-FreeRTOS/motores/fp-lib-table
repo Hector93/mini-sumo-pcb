@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Potentiometers)(type KiCad)(uri /home/hector/Documentos/Robotica/Potentiometers.pretty-master)(options "")(descr ""))
+)

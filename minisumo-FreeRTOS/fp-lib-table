@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri /home/hector/Documentos/Robotica/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name Potentiometers)(type KiCad)(uri /home/hector/Documentos/Robotica/Potentiometers.pretty-master)(options "")(descr ""))
+  (lib (name SparkFun-Kicad-Libraries-master)(type KiCad)(uri /home/hector/Documentos/Robotica/SparkFun-Kicad-Libraries-master)(options "")(descr ""))
+)
